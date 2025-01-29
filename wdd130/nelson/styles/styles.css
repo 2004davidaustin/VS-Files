@@ -1,0 +1,64 @@
+body {
+    background-color: #63a1d5;
+    text-align: center;
+    margin: 0 auto;
+    width: 44.1%;
+}
+
+
+
+h1 {
+    font-size : 2.1em;
+    font-family: Helvetica, serif;
+    color : white;
+}
+h1:hover {
+    color : black;
+}
+h2 {
+    color : white;
+    font-size : 0.9em;
+    font-weight : normal;
+}
+h3 {
+    font-family: Helvetica, serif;
+    font-size : 0.9em;
+    font-weight : bold;
+}
+p {
+    color : white;
+    font-family: Helvetica, serif;
+    font-weight : bold;
+}
+
+
+
+main h3 {
+    text-align: left;
+    margin: 0 auto;
+    line-height: 1.7em;
+}
+footer h3 {
+    font-weight: normal;
+}
+.big_quote {
+    font-size : 2.3em;
+    margin: 0 auto;
+    width : 75%
+}
+
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 35%;
+}
+
+
+
+
+
+* {
+    padding: 0.2em;
+}
