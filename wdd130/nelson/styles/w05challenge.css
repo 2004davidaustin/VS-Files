@@ -1,0 +1,24 @@
+body {
+    margin : 0;
+    background-color: gray;
+}
+
+header img {
+    width : 100%;
+}
+
+main {
+    margin : 2.5%
+}
+
+main img {
+    width : 20%;
+    border-radius: 100%;
+    border : solid 0.6em #595959;
+    margin-inline: 5%;
+}
+
+/*
+* {
+   border : solid 1px blue; 
+}

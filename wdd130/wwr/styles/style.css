@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Radio+Canada:ital,wght@0,300..700;1,300..700&display=swap');
+
 #content {
     max-width : 1600px;
     margin: 0 auto;
@@ -6,6 +9,7 @@
 
 
 nav a {
+    font-family:  Canada, Helvetica, sans-serif;
     text-align: center;
 }
 #hero-msg h1 {
@@ -30,39 +34,36 @@ main section {
 
 
 body {
+    font-size : 22px;
+    font-family : Radio Canada, Helvetica, sans-serif;
     background-color: white;
+    margin: 0;
+    padding: 0;
 }
 header {
+    font-family : Radio Canada, Helvetica, sans-serif;
     background-color: #0B3954;
 }
 nav a:hover {
-    background-color: white;
-}
-.book {
-    background-color: #C81D25;
-}
-.join {
-    background-color: #C81D25;
-}
-.book:hover {
-    background-color: white;
-}
-.join:hover {
     background-color: white;
 }
 #background {
     background-color: #087E8B;
 }
 .msg {
+    padding: 35px;
+    font-size: 1.5em;
     background-color: #0B3954;
 }
 footer {
+    margin-top: 200px;
     background-color: #0B3954;
 }
 
 
 
 nav a {
+    padding: 35px;
     color : white;
     text-decoration: none;
 }
@@ -70,51 +71,63 @@ nav a:hover {
     color : black;
 }
 .home-title {
+    margin-top: 10px;
+    font-family : Permanent Marker;
+    font-size: 2em;
     color : #0B3954;
 }
 h4 {
     color : #0B3954;
 }
 h2 {
+    margin : 0;
     color : #0B3954;
 }
-.book {
-    color : white;
-    text-decoration: none;
-}
-.join {
-    color : white;
-    text-decoration: none;
+.book:hover, .join:hover {
+    box-sizing: border-box;
+    background-color: white;
+    color : black;
 }
 .book:hover {
-    color : black;
+    border : solid 2px #C81D25;
 }
-.join:hover {
-    color : black;
+.book, .join {
+    border-radius : 5px;
+    background-color: #C81D25;
+    margin-top: 50px;
+    padding: 15px 30px;
+    font-size: 18px;
+    color : white;
+    text-decoration: none;
 }
 .msg h2 {
+    font-family : Permanent Marker;
     color : white;
 }
 .msg p {
+    padding-bottom: 15px;
     color : white;
 }
 footer {
-    color : white;
+    padding: 25px 50px;
+    color : #087E8B;
 }
 footer a {
-    color : white;
+    color : #087E8B;
     text-decoration: none;
 }
 footer a:hover {
-    color : white;
+    color : #087E8B;
 }
 
 
 
 .logo {
+    border-radius: 100%;
     width : 80px;
 }
 .icon {
+    padding-top: 10px;
     width: 80px;
 }
 #hero-img {
@@ -129,4 +142,30 @@ footer p {
 footer p a:hover {
     text-decoration: underline;
 }
-                    
+
+
+
+
+#logo_link {
+    padding-top: 5px;
+}
+footer .social img {
+    padding: 25px 50px;
+}
+
+
+
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+
+
+
+.card-img {
+    border : 10px solid #0B3954;
+}
+main section img {
+    box-sizing : border-box;
+}
