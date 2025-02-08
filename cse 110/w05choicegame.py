@@ -1,6 +1,3 @@
-
-
-
 code = ""
 print("\n\n")
 
@@ -9,7 +6,7 @@ print("\n\n")
 def cool(id, script, a="none", b="none", c="none"):
     global code
     if id == code and a != "none" :
-            response = input("\n" + script + "\n").lower()
+            response = input(script + "\n").lower()
             if a in response : code += "a"
             elif b in response : code += "b"
             elif c in response : code += "c"
@@ -21,12 +18,12 @@ def cool(id, script, a="none", b="none", c="none"):
 cool("", '''
 You are in your room and you are bored.
      
-Do you CALL your not best but very appricated friend, or WAIT for something amazing to happen?
+Do you CALL your not best but very appreciated friend, or WAIT for something amazing to happen?
 ''', "call", "wait")
 
 
 cool("a", '''
-You call your not best but very appricated friend. He tells you he just got abducted by aliens
+You call your not best but very appreciated friend. He tells you he just got abducted by aliens
 and he needs you to save him.
 
 Do you steal a private jet and FLY to the mothership to save him, or do you CALL the police?
@@ -44,7 +41,7 @@ Which do you go through?
 cool("aaa", '''
 You walk in to find your friend strapped to a table. The tall lanky aliens are doing strange experiments
 to him. You fight them off with your amazing 7th grade judo skills. You break out, and fly off into the
-sunset while your not best but very appricated friend uses the new superpowers the aliens accidentally
+sunset while your not best but very appreciated friend uses the new superpowers the aliens accidentally
 gave him to blow up the mothership. 
 ''')
 
@@ -71,7 +68,7 @@ SUE the government for enacting such a stupid law?
 
 cool("aba", '''
 The S.A.D. (special alien defense) division springs into action. They capture the alien space ship
-and save your not best but very appricated friend. You now find yourself in crippling debt.
+and save your not best but very appreciated friend. You now find yourself in crippling debt.
 You have won. But at what cost?
 ''')
 
@@ -97,10 +94,10 @@ imaginary demons?
 cool("ba", '''
 You run outside for several hours until you run into homeless man Sam. He offers you a RED pill and a BLUE pill.
 Which do you take?
-''', "red", "blue")
+''', "red", "blue", "punch")
 
 cool("baa", '''
-You take the pill and realize you're playing a weird choose your own adventure game made by a college student. Wow.
+It was a jolly rancher.
 ''')
 
 cool("bab", '''
@@ -108,6 +105,35 @@ You take the pill. Suddenly the police show up out of nowhere and arrest you for
 man Sam. You immediately regret your desicion, and wish you had followed the counsels of modern prophets to obey
 the word of wisdom.
 ''')
+
+
+
+
+
+cool("bac", '''
+The homeless man staggers backwards and shouts in suprise. A goverment ID and a strange device drop from his coat.
+You freak out as you realize something isn't right. Do you RUN to safety, or do you try to GRAB the device?
+''', "run", "grab")
+
+cool("baca", '''
+The goverment agent catches up to you and tackles you. Goverment and police cars surround you. You were caught.     
+''')
+
+cool("bacb", '''
+You grab the device off the ground. The government agent fights you for it. You struggle to keep it out of his
+hands. It says "wake up" on it with a button. Do you PRESS it, or do you DESTROY IT?
+''', "press", "destroy")
+
+cool("bacba", '''
+You woke up.
+''')
+
+cool("bacbb", '''
+You grip the device, still fighting to keep it from the agent. With all your might you smash it against the concrete.
+The game crashes. Suddenly you realize that your whole life was just a strange chose your own adventure game made for
+a school project. You feel disappointment, yet solace in knowing the truth. You're finally free to return to reality.
+''')
+
 
 
 
@@ -131,7 +157,7 @@ You call your mom. She comforts you and gives you very good advice. The creature
 but at least you've finally spent some quality time talking to your mother after all of these years.
 ''')
 
-print("\nTHE END\n\n")
+print("THE END\n\n")
 
 
 
