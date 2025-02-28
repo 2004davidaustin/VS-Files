@@ -41,6 +41,7 @@ body {
 img {
   display: block;
   margin: 0 auto;
+  width : 800px;
 }
 h1, h2 {
   font-weight : 800;
