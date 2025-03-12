@@ -9,7 +9,7 @@ print("\n\n" + "Welcome to the coolest store ever")
 while response != "quit" :
     
 
-    print("\nYou can add an item to your cart, view your cart, remove an item from your cart, check your total, or quit. \n(Add) (View) (Remove) (Total) (Quit)")
+    print("\nYou can add an item to your cart, view your cart, remove an item from your cart, check your total, or quit. \n(Add) (View) (Edit) (Remove) (Total) (Quit)")
     response = input("What would you like to do? ").lower()
 
 
@@ -26,6 +26,22 @@ while response != "quit" :
                 print(f"{i+1}. {item}, ${prices[i]}")
                 
         else : print("\nYour cart is empty right now.")
+
+
+    if "edit" in response : 
+        change_number = (int(input("\nEnter the number of the item you'd like to edit: ")) - 1)
+
+        while 0 > change_number or change_number > len(items) - 1 : 
+                print("That number is outside of the list.")
+                change_number = (int(input("\nEnter the number of the item you'd like to edit: ")) - 1)
+
+        change_name = input("What do you want to change it to? ")
+        change_price = float(input("What's the new price? "))
+
+        print(f"Changed '{items[change_number]}' for ${prices[change_number]} to '{change_name}' for ${change_price}")
+
+        items[change_number] = change_name
+        prices[change_number] = change_price
 
 
     if "remove" in response : 
