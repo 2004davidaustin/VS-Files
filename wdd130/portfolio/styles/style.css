@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lexend+Giga:wght@100..900&display=swap');
+
+
+:root {
+    --background : #774944;
+    --text : white;
+}
+
+body {
+    background-color : var(--background);
+    color : var(--text);
+}
