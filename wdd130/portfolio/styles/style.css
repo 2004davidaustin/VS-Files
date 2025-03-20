@@ -1,12 +1,151 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lexend+Giga:wght@100..900&display=swap');
 
-
 :root {
-    --background : #774944;
+    --background : #3A2A31;
     --text : white;
+    --accent : #774944;
+
+    --heading-font: "Lexend Giga";
+    --sub-font : "EB Garamond";
+    --paragraph-font: "Lexend Giga";
 }
+
+h1 {font-family: var(--heading-font);}
+h2 {font-family: var(--sub-font);}
+p, a {font-family: var(--paragraph-font);}
+p {margin: 0; display: inline-block;}
+
+
+
 
 body {
     background-color : var(--background);
     color : var(--text);
+    margin: 0 auto;
+}
+
+
+
+header {
+    padding : 0 1em 4em 1em;
+}
+header div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+header img {text-align : left;}
+header h1 {text-align : center;}
+header div a {
+    max-width: 7.5em;
+    justify-self : end;
+    text-align: center;
+}
+header img {
+    width: 10em;
+}
+
+
+
+nav {
+    margin : 0 auto;
+    text-align: center;
+}
+nav a {
+    color : var(--text);
+    text-decoration: none;
+    padding: 1em;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+nav a:nth-of-type(1) {text-decoration: underline;}
+
+
+
+
+
+main h1 {
+    text-align: center;
+}
+#titleimg {
+    width: 100%;
+    padding-bottom : 4em;
+}
+
+
+
+
+
+
+
+
+#showcase {
+    display: grid;
+    grid-template-columns: repeat(23, 1fr);
+    padding-bottom : 4em;
+}
+#showcase img {
+    width: 100%;
+    height: 75%;
+    object-fit: cover;
+    padding-bottom : 0.7em;
+}
+
+#showcase p {
+    margin-right : 1.333em;
+}
+
+#showcase div {
+    display: grid;
+    grid-template-columns: auto max-content;
+}
+
+#showcase section:nth-of-type(1) {
+    grid-column: 2/12;
+}
+#showcase section:nth-of-type(2) {
+    grid-column: 13/23;
+}
+
+
+.button {
+    border-radius : 0.1em;
+    padding: .3em .6em;
+    font-size: 18px;
+    max-height: 1.3333em;
+    
+    background-color: var(--text);
+    color : var(--background);
+    text-decoration: none;
+}
+.button:hover {
+    background-color: var(--background);
+    color : var(--text);
+
+    border-style: solid;
+    border-color: var(--text);
+    border-width: 0.15em;
+}
+
+
+
+#aboutme {
+    margin : 4.5%;
+    background-color: var(--accent);
+}
+
+
+
+footer {
+    display : inline-block;
+    display: grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+}
+footer div {
+    justify-self : end;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    align-items: center;
 }
