@@ -165,8 +165,11 @@ hr {
     margin : 4.5%;
     background-color: var(--accent);
     display : grid;
-    grid-template-columns: max-content auto;
+    grid-template-columns: auto auto;
     align-items: center;
+}
+#aboutme img {
+    height: 100%;
 }
 #aboutme section {
     padding: 1em;
