@@ -13,5 +13,5 @@ while "yes" in play.lower() :
         if guess < number : print("Higher...")
         if guess == number :
             print("YOU GOT IT!!!\n")
-            print(f"You guessed: {guesses} times")
+            print(f"You guessed {guesses} times")
             play = input("Wanna play again? (Yes or No) ")
