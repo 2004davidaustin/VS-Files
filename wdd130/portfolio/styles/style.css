@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lexend+Giga:wght@100..900&display=swap');
+
+:root {
+    --background : #3A2A31;
+    --text : white;
+    --accent : #774944;
+    --accent2 : #887155;
+
+    --heading-font: "Lexend Giga";
+    --sub-font : "EB Garamond";
+    --paragraph-font: "Lexend Giga";
+}
+
+h1 {
+    font-family: var(--heading-font);
+    font-size : 40px;
+}
+h2, .button {
+    margin: 0;
+    font-family: var(--sub-font);
+    font-family: var(--sub-font);
+    font-style: italic;
+    font-weight: bold;
+}
+p, a {
+    font-family: var(--paragraph-font);
+    font-size : 20px;
+}
+p {margin: 0; display: inline-block;}
+
+
+
+
+body {
+    background-color : var(--background);
+    color : var(--text);
+    margin: 0 auto;
+}
+
+
+
+header {
+    padding : 0 1em 4em 1em;
+}
+header div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+}
+header img {text-align : left;}
+header h1 {text-align : center;}
+header div a {
+    max-width: 7.5em;
+    justify-self : end;
+    text-align: center;
+}
+header img {
+    width: 10em;
+}
+
+
+
+nav {
+    margin : 0 auto;
+    text-align: center;
+}
+nav a {padding: 1em;}
+nav a, footer a:nth-of-type(2) {
+    color : var(--text);
+    text-decoration: none;
+}
+nav a:hover, footer a:nth-of-type(2):hover {
+    text-decoration: underline;
+}
+nav .current {text-decoration: underline;}
+
+
+
+
+
+main h1 {
+    text-align: center;
+}
+#titleimg {
+    width: 100%;
+    padding-bottom : 10em;
+}
+
+
+
+
+
+
+
+
+#showcase {
+    display: grid;
+    grid-template-columns: repeat(23, 1fr);
+}
+#showcase img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    padding-bottom : 0.7em;
+}
+
+#showcase p {
+    margin-right : 1.333em;
+}
+
+#showcase div {
+    display: grid;
+    grid-template-columns: auto max-content;
+}
+
+#showcase section:nth-of-type(1) {
+    grid-column: 2/12;
+}
+#showcase section:nth-of-type(2) {
+    grid-column: 13/23;
+}
+
+
+
+
+
+
+
+
+.button {
+    border-radius : 0.1em;
+    padding: .3em .6em .3em .55em;
+    max-height: 1.3333em;
+    
+    background-color: var(--text);
+    color : var(--background);
+    text-decoration: none;
+}
+.button:hover {
+    background-color: var(--background);
+    color : var(--text);
+
+    outline-style: solid;
+    outline-color : var(--text);
+    outline-width: 0.15em;
+}
+
+
+
+
+
+
+hr {
+    color : var(--accent2);
+    margin : 4.5%;
+}
+
+
+
+
+
+
+
+#aboutme {
+    margin : 4.5%;
+    background-color: var(--accent);
+    display : grid;
+    grid-template-columns: auto auto;
+    align-items: center;
+}
+#aboutme img {
+    height: 100%;
+}
+#aboutme section {
+    padding: 1em;
+}
+#aboutme p {
+    padding: 0.5em 0 0.5em 0;
+}
+
+
+
+
+
+
+
+
+
+footer {
+    display : inline-block;
+    display: grid;
+    grid-template-columns: 18em 9em auto auto;
+    align-items: center;
+    margin : 0 0.5em 0 0.5em
+}
+footer div {
+    justify-self : end;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    align-items: center;
+}
+footer a {
+    margin : 0 0.5em 0 0.5em
+}

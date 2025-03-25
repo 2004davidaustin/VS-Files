@@ -16,42 +16,34 @@ for s in site_words :
 
 
 
+#'''
 while "yes" in continue_playing :
-
-
-    print("\nGuess the word!") 
-    
-
-    #word generator goes here
-    #word_chooser = ["word", "funny", "cool", "python"]
-    word = word_bank[random.randint(0, len(word_bank))]
-
-
-    #reset variables
+    #start and reset variables
+    print("\nGuess the word!")
     guess = ""
     guess_count = 0
-    hint_letters = ""
+
+
+
+    #word generator
+    word = word_bank[random.randint(0, len(word_bank))]
+
+    #initial hint
+    for i in enumerate(word) :
+        print("_", end=" ")
+    print()
+
 
 
     while word != guess :
         guess_count += 1
-
-
-        #hint machine
-        print("HINT:", end=" ")
-        for i, letter in enumerate(word) :
-            if letter in hint_letters :
-                if i == 0 : print(letter.upper(), end=" ")
-                else : print(letter, end=" ")
-            else : print("_", end=" ")
-        print()
         
-
         guess = input("What's your guess? ").lower()
-
 
         #cheat
         if guess == "helpme" : print(word)
+
+
 
         #length verifier
         while len(word) != len(guess) :
@@ -59,12 +51,20 @@ while "yes" in continue_playing :
             guess = input("What's your guess? ").lower()
         
 
+
         #guess checker
         if guess == word :
             print("\nYOU GOT IT!!!")
             print(f"You guessed: {guess_count} times")
             continue_playing = input("Wanna play again? (Yes or No) ").lower()
         else :
+
+            #hint machine
+            for i, letter in enumerate(word) :
+                if letter in guess and letter == guess[i] : print(letter.upper(), end=" ")
+                elif letter in guess : print(letter, end=" ")
+                else : print("_", end=" ")
+            print()
+
             print("Nope.\n")
-            for i, letter in enumerate(word) : #add matching letters to hint_letters
-                if letter in guess and letter not in hint_letters : hint_letters += letter
+#'''
