@@ -44,3 +44,5 @@ for speed in range(5, 65, 5) :
 
     #print it all
     print(f"At {temp}{temp_word} and {speed}{speed_word}, the windchill is {windchill:.2f}{temp_word}")
+    
+print()
