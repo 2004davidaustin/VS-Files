@@ -47,7 +47,6 @@ header div {
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
 }
-header img {text-align : left;}
 header h1 {text-align : center;}
 header div a {
     max-width: 7.5em;
@@ -57,6 +56,7 @@ header div a {
 header img {
     width: 10em;
 }
+#logo {text-align : left;}
 
 
 
