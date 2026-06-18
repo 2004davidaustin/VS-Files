@@ -1,0 +1,41 @@
+
+
+!!!!!!!!!!!!!! py -m pip install eng-to-ipa
+
+
+
+https://elliotec.com/writing-in-the-deseret-alphabet/
+
+https://2deseret.com/
+
+
+
+https://ipa-reader.com/
+
+
+https://github.com/open-dict-data/ipa-dict
+http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+
+
+Glyph 	IPA 	Sound 	Glyph 	IPA 	Sound
+𐐀 	/iː/ 	“e” in me 	𐐊 	/ʌ/ 	“u” in luck
+𐐁 	/eɪ/ 	“ay” in day 	𐐋 	/ʊ/ 	“u” in pull
+𐐂 	/ɑː/ 	“a” in cart 	𐐌 	/aɪ/ 	“y” in my
+𐐃 	/ɔː/ 	“au” in caught 	𐐍 	/aʊ/ 	“ow” in cow
+𐐄 	/oʊ/ 	“o” in go 	𐐎 	/w/ 	“w” in wow
+𐐅 	/uː/ 	“oo” in do 	𐐏 	/j/ 	“y” in yes
+𐐆 	/ɪ/ 	“i” in sit 	𐐐 	/h/ 	“h” in hi
+𐐇 	/ɛ/ 	“e” in bet 	𐐑 	/p/ 	“p” in pet
+𐐈 	/æ/ 	“a” in cat 	𐐒 	/b/ 	“b” in boy
+𐐉 	/ɒ/ 	“o” in lot 	𐐓 	/t/ 	“t” in tank
+Glyph 	IPA 	Sound 	Glyph 	IPA 	Sound
+𐐔 	/d/ 	“d” in dog 	𐐞 	/z/ 	“z” in zoo
+𐐕 	/tʃ/ 	“ch” in church 	𐐟 	/ʃ/ 	“sh” in ship
+𐐖 	/dʒ/ 	“j” in jump 	𐐠 	/ʒ/ 	“s” in measure
+𐐗 	/k/ 	“k” in kite 	𐐡 	/r/ 	“r” in red
+𐐘 	/ɡ/ 	“g” in girl 	𐐢 	/l/ 	“l” in love
+𐐙 	/f/ 	“f” in food 	𐐣 	/m/ 	“m” in mom
+𐐚 	/v/ 	“v” in voice 	𐐤 	/n/ 	“n” in night
+𐐛 	/θ/ 	“th” in think 	𐐥 	/ŋ/ 	“ng” in sing
+𐐜 	/ð/ 	“th” in that 	𐐦 	/ɔɪ/ 	“oy” in boy
+𐐝 	/s/ 	“s” in sun 	𐐧 	/juː/ 	“yew” in yew

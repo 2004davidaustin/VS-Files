@@ -1,0 +1,200 @@
+"i":"𐐀",    "oʊ":"𐐄",   "æ":"𐐈",    "aɪ":"𐐌",   "h":"𐐐",    "d":"𐐔",
+"ɡ":"𐐘",    "ð":"𐐜",    "ʒ":"𐐠",    "n":"𐐤",    "eɪ":"𐐁",    "u":"𐐅",
+"ɒ":"𐐉",    "aʊ":"𐐍",    "p":"𐐑",    "ʧ":"𐐕",    "f":"𐐙",    "s":"𐐝",
+"r":"𐐡",    "ŋ":"𐐥",    "ɑ":"𐐂",    "ɪ":"𐐆",    "ʌ":"𐐊",    "w":"𐐎",
+"b":"𐐒",    "ʤ":"𐐖",    "v":"𐐚",    "z":"𐐞",    "l":"𐐢",    "ɔɪ":"𐐦",
+"ɔ":"𐐃",    "ɛ":"𐐇",    "ʊ":"𐐋",    "j":"𐐏",    "t":"𐐓",    "k":"𐐗",
+"θ":"𐐛",    "ʃ":"𐐟",    "m":"𐐣",    "ju":"𐐧"
+
+
+
+
+
+
+𐐀	Long I 	/i/ 	𐐁	Long E	/eɪ/ 	𐐂	Long A	/ɑ/ 	𐐃	Long Ah /ɔ/
+𐐄	Long O	/oʊ/ 	𐐅	Long Oo	/u/ 	𐐆	Short I	/ɪ/ 	𐐇	Short E /ɛ/
+𐐈	ShortA 	/æ/ 	𐐉	ShortAh	/ɒ/ 	𐐊	Short O	/ʌ/ 	𐐋	ShortOo	/ʊ/
+𐐌	Ay 		/aɪ/ 	𐐍	Ow 		/aʊ/ 	𐐎 	Wu 		/w/ 	𐐏	Yee 	/j/
+𐐐	H 		/h/ 	𐐑	Pee 	/p/ 	𐐒	Bee 	/b/ 	𐐓	Tee 	/t/
+𐐔	Dee 	/d/ 	𐐕	Chee 	/ʧ/ 	𐐖	Jee 	/ʤ/ 	𐐗	Kay 	/k/
+𐐘	Gay 	/ɡ/ 	𐐙	Ef 		/f/ 	𐐚	Vee 	/v/ 	𐐛	Eth 	/θ/
+𐐜	Thee 	/ð/ 	𐐝	Es 		/s/ 	𐐞	Zee 	/z/ 	𐐟	Esh 	/ʃ/
+𐐠	Zhee 	/ʒ/ 	𐐡 	Er 		/r/ 	𐐢	El 		/l/ 	𐐣 	Em 		/m/
+𐐤	En 		/n/ 	𐐥	Eng 	/ŋ/ 	𐐦	Oi* 	/ɔɪ/ 	𐐧	Ew* 	/ju/
+
+
+✅ Missing from Deseret (compared to your list)
+
+/ə/
+
+/ər/
+
+/ɑr/
+
+/ɔr/
+
+✅ Present in Deseret but not in your list
+
+/ð/
+
+/ʒ/
+
+/ju/
+
+/aɪ/
+
+
+
+𐐀		i		𐐁		eɪ		𐐂		ɑ		𐐃		ɔ
+𐐄		oʊ		𐐅		u		𐐆		ɪ		𐐇		ɛ
+𐐈		æ		𐐉		ɒ		𐐊		ʌ		𐐋		ʊ
+𐐌		aɪ		𐐍		aʊ		𐐎		w		𐐏		j
+𐐐		h		𐐑		p		𐐒		b		𐐓		t
+𐐔		d		𐐕		ʧ		𐐖		ʤ		𐐗		k
+𐐘		ɡ		𐐙		f		𐐚		v		𐐛		θ
+𐐜		ð		𐐝		s		𐐞		z		𐐟		ʃ
+𐐠		ʒ		𐐡		r		𐐢		l		𐐣		m
+𐐤		n		𐐥		ŋ		𐐦		ɔɪ		𐐧		ju
+
+
+
+eɪ
+ɔ
+i
+oʊ
+ɔɪ
+u
+aʊ
+ua
+ue
+ui
+
+ɑr 
+ɔr 
+ər 
+ər 
+ər
+ʧ
+ʧ
+ʃ
+θ
+f
+ŋ
+k
+
+æ
+b
+k
+d
+ɛ
+f
+g
+h
+ɪ
+ʤ
+k
+l
+m
+n
+ɒ
+p
+k
+r
+s
+t
+ʌ
+v
+w
+ks
+j
+z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+𐐶𐐲𐑌𐐼𐐯𐑉
+wonder
+
+
+
+original
+Twinkle, twinkle, little star, How I wonder what you are. Up above the world so high, Like a diamond in the sky.
+When the blazing sun is set, And the grass with dew is wet, Then you show your little light;
+Twinkle, twinkle, all the night. Then if I were in the dark, I would thank you for your spark;
+I could not see which way to go, If you did not twinkle so. 
+And when I am sound asleep, Oft you through my window peep, For you never shut your eye Til the sun is in the sky.
+
+v1
+𐐓𐐎𐐆𐐥𐐗𐐋𐐢, 𐐓𐐎𐐆𐐥𐐗𐐋𐐢, 𐐢𐐆𐐓𐐋𐐢 𐐝𐐓𐐂𐐡, 𐐐𐐍 𐐌 𐐎𐐋𐐤𐐔𐐋𐐡 𐐎𐐋𐐓 𐐧 𐐋𐐡. 𐐋𐐑 𐐋𐐒𐐋𐐚 𐐜𐐋 𐐎𐐋𐐡𐐢𐐔 𐐝𐐄 𐐐𐐌, 𐐢𐐌𐐗 𐐋 𐐔𐐌𐐣𐐋𐐤𐐔 𐐆𐐤 𐐜𐐋 𐐝𐐗𐐌. 
+𐐎𐐆𐐤 𐐜𐐋 𐐒𐐢𐐁𐐞𐐆𐐥 𐐝𐐋𐐤 𐐆𐐞 𐐝𐐇𐐓, 𐐋𐐤𐐔 𐐜𐐋 𐐘𐐡𐐈𐐝 𐐎𐐆𐐛 𐐔𐐅 𐐆𐐞 𐐎𐐇𐐓, 𐐜𐐇𐐤 𐐧 𐐟𐐄 𐐏𐐋𐐡 𐐢𐐆𐐓𐐋𐐢 𐐢𐐌𐐓; 
+𐐓𐐎𐐆𐐥𐐗𐐋𐐢, 𐐓𐐎𐐆𐐥𐐗𐐋𐐢, 𐐃𐐢 𐐜𐐋 𐐤𐐌𐐓. 𐐜𐐇𐐤 𐐆𐐙 𐐌 𐐎𐐋𐐡 𐐆𐐤 𐐜𐐋 𐐔𐐂𐐡𐐗, 𐐌 𐐎𐐋𐐔 𐐛𐐈𐐥𐐗 𐐧 𐐙𐐋𐐡 𐐏𐐋𐐡 𐐝𐐑𐐂𐐡𐐗; 
+𐐌 𐐗𐐋𐐔 𐐤𐐂𐐓 𐐝𐐀 𐐎𐐆𐐕 𐐎𐐁 𐐓𐐆 𐐘𐐄, 𐐆𐐙 𐐧 𐐔𐐆𐐔 𐐤𐐂𐐓 𐐓𐐎𐐆𐐥𐐗𐐋𐐢 𐐝𐐄. 
+𐐋𐐤𐐔 𐐎𐐆𐐤 𐐌 𐐈𐐣 𐐝𐐍𐐤𐐔 𐐋𐐝𐐢𐐀𐐑, 𐐃𐐙𐐓 𐐧 𐐛𐐡𐐅 𐐣𐐌 𐐎𐐆𐐤𐐔𐐄 𐐑𐐀𐐑, 𐐙𐐋𐐡 𐐧 𐐤𐐇𐐚𐐋𐐡 𐐟𐐋𐐓 𐐏𐐋𐐡 𐐌 𐐓𐐆𐐢 𐐜𐐋 𐐝𐐋𐐤 𐐆𐐞 𐐆𐐤 𐐜𐐋 𐐝𐐗𐐌.
+
+wiki
+𐐓𐐶𐐮𐑍𐐿𐑊, 𐐻𐐶𐐮𐑍𐐿𐑊, 𐑊𐐮𐐻𐑊 𐑅𐐻𐐪𐑉, 𐐐𐐵 𐐌 𐐶𐐲𐑌𐐼𐐯𐑉 𐐸𐐶𐐱𐐻 𐐷𐐭 𐐪𐑉. 𐐊𐐹 𐐰𐐺𐐲𐑂 𐑄 𐐶𐐲𐑉𐑊𐐼 𐑅𐐬 𐐸𐐴, 𐐢𐐴𐐿 𐐪 𐐼𐐴𐑋𐐲𐑌𐐼 𐐮𐑌 𐑄 𐑅𐐿𐐴. 
+𐐐𐐶𐐯𐑌 𐑄 𐐺𐑊𐐩𐑆𐐮𐑍 𐑅𐐲𐑌 𐐮𐑆 𐑅𐐯𐐻, 𐐈𐑌𐐼 𐑄 𐑀𐑉𐐪𐑅 𐐶𐐮𐑄 𐐼𐐮𐐭 𐐮𐑆 𐐶𐐯𐐻, 𐐜𐐯𐑌 𐐷𐐭 𐑇𐐬 𐐷𐐭𐑉 𐑊𐐮𐐻𐑊 𐑊𐐴𐐻; 
+𐐓𐐶𐐮𐑍𐐿𐑊, 𐐻𐐶𐐮𐑍𐐿𐑊, 𐐫𐑊 𐑄 𐑌𐐴𐐻. 𐐜𐐯𐑌 𐐮𐑁 𐐌 𐐶𐐲𐑉 𐐮𐑌 𐑄 𐐼𐐪𐑉𐐿, 𐐌 𐐶𐐳𐐼 𐑃𐐰𐑍𐐿 𐐷𐐭 𐑁𐐫𐑉 𐐷𐐭𐑉 𐑅𐐹𐐪𐑉𐐿; 
+𐐌 𐐿𐐳𐐼 𐑌𐐱𐐻 𐑅𐐨 𐐸𐐶𐐮𐐽 𐐶𐐩 𐐻𐐭 𐑀𐐬, 𐐆𐑁 𐐷𐐭 𐐼𐐮𐐼 𐑌𐐱𐐻 𐐻𐐶𐐮𐑍𐐿𐑊 𐑅𐐬. 
+𐐈𐑌𐐼 𐐸𐐶𐐯𐑌 𐐌 𐐰𐑋 𐑅𐐵𐑌𐐼 𐐰𐑅𐑊𐐨𐐹, 𐐉𐑁𐐻 𐐷𐐭 𐑃𐑉𐐭 𐑋𐐴 𐐶𐐮𐑌𐐼𐐬 𐐹𐐨𐐹, 𐐙𐐫𐑉 𐐷𐐭 𐑌𐐯𐑂𐐯𐑉 𐑇𐐲𐐻 𐐷𐐭𐑉 𐐴 𐐓𐐮𐑊 𐑄 𐑅𐐲𐑌 𐐮𐑆 𐐮𐑌 𐑄 𐑅𐐿𐐴.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ai+ay. au.
+
+ea. ee. ei.
+
+ia. ie.
+
+oa. oe. oi+oy. oo. ou.
+
+ua ue ui
+
+ar 
+er 
+ir 
+or 
+ur
+
+
+
+    "ai":"eɪ", "ay":"eɪ", 
+    "ei":"eɪ", "ey":"eɪ",
+    "oa":"oʊ", 
+    "oo":"u",
+    "ea":"i", "ie":"i",
+    "ou":"aʊ", "ow":"aʊ", 
+    "au":"ɔ", "aw":"ɔ",
+    "oi":"ɔɪ", "oy":"ɔɪ",
+
+
+    "ar":"ɑr", "or":"ɔr", "er":"ɜr", "ir":"ɜr", "ur":"ɜr",
+
+
+    "ch":"ʧ", "sh":"ʃ", "th":"θ", "ph":"f", "ng":"ŋ", "ck":"k", "tch":"ʧ"
+
+
+    "a":"æ", "b":"b", "c":"k", "d":"d", "e":"ɛ", "f":"f", "g":"g", "h":"h",
+    "i":"ɪ", "j":"ʤ", "k":"k", "l":"l", "m":"m", "n":"n", "o":"ɒ", "p":"p",
+    "q":"k", "r":"ɹ", "s":"s", "t":"t", "u":"ʌ", "v":"v", "w":"w", "x":"ks",
+    "y":"j", "z":"z"
